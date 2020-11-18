@@ -1,0 +1,29 @@
+body{
+    text-align: center;
+    background-color: beige;
+    
+}
+.img1{
+    width:300px;
+    height:150px;
+    border-color: aqua;
+    border-style: double;
+    border width:auto 10px;
+    padding: 20px;
+    
+}
+.imagesection{
+    display:flex;
+    justify-content: center;
+}
+.div1{
+    background-color:aqua ;
+    margin-right: 50px;
+    margin-left: 50px;
+    
+}
+.p1{
+    color:blue;
+    background-color:white;
+    
+}
